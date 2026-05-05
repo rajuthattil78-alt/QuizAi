@@ -1,0 +1,1298 @@
+[
+    {
+        "question": "Who is the pseudonymous creator of Bitcoin?",
+        "options": ["Vitalik Buterin", "Satoshi Nakamoto", "Charlie Lee", "Hal Finney"],
+        "correct_option_id": 1,
+        "explanation": "Satoshi Nakamoto published the Bitcoin whitepaper in 2008 and mined the genesis block in 2009."
+    },
+    {
+        "question": "Which consensus mechanism does Ethereum currently use?",
+        "options": ["Proof of Work", "Proof of History", "Proof of Stake", "Proof of Burn"],
+        "correct_option_id": 2,
+        "explanation": "Ethereum transitioned to Proof of Stake (PoS) during 'The Merge' in September 2022 to reduce energy consumption."
+    },
+    {
+        "question": "What is the maximum supply of Bitcoin?",
+        "options": ["18 Million", "21 Million", "100 Million", "Unlimited"],
+        "correct_option_id": 1,
+        "explanation": "The Bitcoin protocol mathematically limits the total supply to 21 million BTC."
+    },
+    {
+        "question": "What does the acronym 'HODL' originally stand for in crypto culture?",
+        "options": ["Hold On for Dear Life", "A typo for 'hold'", "High Order Digital Ledger", "Hash On Distributed Ledger"],
+        "correct_option_id": 1,
+        "explanation": "HODL originated from a drunk typo in a 2013 BitcoinTalk forum post titled 'I AM HODLING'. 'Hold On for Dear Life' is a backronym."
+    },
+    {
+        "question": "Which cryptocurrency was created as a 'joke' based on an internet meme?",
+        "options": ["Shiba Inu", "Dogecoin", "PepeCoin", "Floki"],
+        "correct_option_id": 1,
+        "explanation": "Dogecoin was created in 2013 by Billy Markus and Jackson Palmer to mock the wild speculation in cryptocurrencies."
+    },
+    {
+        "question": "What is a 'Genesis Block'?",
+        "options": ["The last block of a chain", "A corrupted block", "The first block of a blockchain", "A block with no transactions"],
+        "correct_option_id": 2,
+        "explanation": "The Genesis Block (or Block 0) is the very first block recorded on a blockchain network."
+    },
+    {
+        "question": "What is the primary function of 'Gas' on the Ethereum network?",
+        "options": ["To mine new tokens", "To pay for computational effort and transactions", "To increase block size", "To speed up internet connection"],
+        "correct_option_id": 1,
+        "explanation": "Gas is the fee required to successfully conduct a transaction or execute a contract on the Ethereum blockchain."
+    },
+    {
+        "question": "What does 'DeFi' stand for?",
+        "options": ["Decentralized Fiat", "Digital Finance", "Decentralized Finance", "Distributed Federation"],
+        "correct_option_id": 2,
+        "explanation": "DeFi refers to financial services using smart contracts, which don't rely on central financial intermediaries like brokerages or banks."
+    },
+    {
+        "question": "Who is the primary founder of Ethereum?",
+        "options": ["Gavin Wood", "Charles Hoskinson", "Vitalik Buterin", "Joseph Lubin"],
+        "correct_option_id": 2,
+        "explanation": "Vitalik Buterin proposed Ethereum in a whitepaper in 2013, launching the network in 2015."
+    },
+    {
+        "question": "What is 'Halving' in the context of Bitcoin?",
+        "options": ["When the price drops by 50%", "When the block reward given to miners is cut in half", "When half of the network goes offline", "Splitting a Bitcoin into smaller units"],
+        "correct_option_id": 1,
+        "explanation": "Bitcoin halving occurs roughly every four years, reducing the reward for mining a block by 50% to control inflation."
+    },
+    {
+        "question": "Which exchange collapsed in 2014, losing hundreds of thousands of Bitcoins?",
+        "options": ["FTX", "Binance", "Mt. Gox", "Coinbase"],
+        "correct_option_id": 2,
+        "explanation": "Mt. Gox was handling over 70% of all Bitcoin transactions worldwide before it was hacked and collapsed in 2014."
+    },
+    {
+        "question": "What does NFT stand for?",
+        "options": ["Non-Fungible Token", "New Financial Technology", "Network File Transfer", "Non-Fiat Transaction"],
+        "correct_option_id": 0,
+        "explanation": "A Non-Fungible Token represents a unique digital asset that cannot be mutually interchanged with another."
+    },
+    {
+        "question": "What is a 'Cold Wallet'?",
+        "options": ["A wallet with zero balance", "A frozen exchange account", "A cryptocurrency wallet that is not connected to the internet", "A wallet belonging to a deceased person"],
+        "correct_option_id": 2,
+        "explanation": "Cold wallets (like hardware USB drives) offer maximum security because they are kept offline, away from hackers."
+    },
+    {
+        "question": "Which of these is a 'stablecoin' pegged to the US Dollar?",
+        "options": ["XRP", "USDT (Tether)", "Polkadot", "Chainlink"],
+        "correct_option_id": 1,
+        "explanation": "USDT, or Tether, is a stablecoin designed to maintain a 1:1 value ratio with the US Dollar."
+    },
+    {
+        "question": "What does FOMO stand for?",
+        "options": ["Fear Of Missing Out", "Funds On Market Order", "Future Options Market Overview", "Fiat Or Money Only"],
+        "correct_option_id": 0,
+        "explanation": "FOMO describes the anxiety that an exciting event or profitable investment is currently happening elsewhere."
+    },
+    {
+        "question": "What is the smallest unit of a Bitcoin called?",
+        "options": ["A Gwei", "A Satoshi", "A Bit", "A MicroCoin"],
+        "correct_option_id": 1,
+        "explanation": "One Satoshi is equal to 0.00000001 BTC, named after the pseudonymous creator of Bitcoin."
+    },
+    {
+        "question": "What consensus algorithm does Solana use alongside Proof of Stake?",
+        "options": ["Proof of Work", "Proof of Space", "Proof of History", "Proof of Authority"],
+        "correct_option_id": 2,
+        "explanation": "Solana uses Proof of History (PoH) to create a historical record that proves an event occurred at a specific moment in time."
+    },
+    {
+        "question": "Which altcoin was created by Charlie Lee and is often referred to as the 'silver to Bitcoin's gold'?",
+        "options": ["Ethereum", "Bitcoin Cash", "Litecoin", "Dash"],
+        "correct_option_id": 2,
+        "explanation": "Litecoin was released in 2011, featuring faster block generation times and a different hashing algorithm (Scrypt)."
+    },
+    {
+        "question": "What is a 'Smart Contract'?",
+        "options": ["A legally binding digital PDF", "Self-executing code that runs on a blockchain", "A contract between an exchange and a user", "An AI-generated trading agreement"],
+        "correct_option_id": 1,
+        "explanation": "Smart contracts automatically execute transactions when predetermined conditions are met without needing intermediaries."
+    },
+    {
+        "question": "What term describes a severe, prolonged downturn in cryptocurrency prices?",
+        "options": ["Crypto Winter", "Bear Trap", "Dead Cat Bounce", "Flash Crash"],
+        "correct_option_id": 0,
+        "explanation": "A 'Crypto Winter' refers to a bearish market phase lasting months or years where prices remain depressed."
+    },
+    {
+        "question": "What does DApp stand for?",
+        "options": ["Distributed App", "Decentralized Application", "Digital Application", "Direct Access Protocol"],
+        "correct_option_id": 1,
+        "explanation": "DApps are digital applications or programs that exist and run on a blockchain or peer-to-peer network."
+    },
+    {
+        "question": "What is a 'Seed Phrase' or 'Recovery Phrase'?",
+        "options": ["A password to log into Binance", "A list of 12-24 words used to recover a crypto wallet", "The code used to mine a new block", "A phrase used to encrypt emails"],
+        "correct_option_id": 1,
+        "explanation": "A seed phrase is a human-readable master password that grants full access to the funds in a crypto wallet."
+    },
+    {
+        "question": "Which prominent crypto exchange filed for bankruptcy in November 2022?",
+        "options": ["Kraken", "Binance", "FTX", "KuCoin"],
+        "correct_option_id": 2,
+        "explanation": "FTX, founded by Sam Bankman-Fried, collapsed due to a liquidity crisis and allegations of mishandling customer funds."
+    },
+    {
+        "question": "What is a 'Rug Pull' in the crypto space?",
+        "options": ["A steep market correction", "When developers abandon a project and run away with investors' funds", "A type of physical crypto wallet", "A new consensus mechanism"],
+        "correct_option_id": 1,
+        "explanation": "A rug pull is a malicious maneuver where crypto developers abandon a project and steal investors' money."
+    },
+    {
+        "question": "Which cryptocurrency is known for focusing on privacy and untraceable transactions?",
+        "options": ["Bitcoin", "Monero", "Ripple", "Cardano"],
+        "correct_option_id": 1,
+        "explanation": "Monero (XMR) uses advanced cryptography to obscure senders, receivers, and transaction amounts."
+    },
+    {
+        "question": "What does 'ATH' mean in cryptocurrency trading?",
+        "options": ["All-Time High", "Automated Trading Hub", "Any Time Holding", "Asset Trade History"],
+        "correct_option_id": 0,
+        "explanation": "ATH refers to the highest price an asset has ever reached in its history."
+    },
+    {
+        "question": "Which company, led by Michael Saylor, is known for accumulating massive amounts of Bitcoin?",
+        "options": ["Tesla", "MicroStrategy", "Square", "Meta"],
+        "correct_option_id": 1,
+        "explanation": "MicroStrategy is a software company that adopted Bitcoin as its primary treasury reserve asset."
+    },
+    {
+        "question": "What is the role of a 'Miner' in a Proof of Work network?",
+        "options": ["To buy crypto at low prices", "To validate transactions and secure the network", "To create new wallets", "To write smart contracts"],
+        "correct_option_id": 1,
+        "explanation": "Miners solve complex mathematical problems to validate transactions, add them to the blockchain, and earn rewards."
+    },
+    {
+        "question": "What is a 'Whale' in cryptocurrency?",
+        "options": ["A very old transaction", "A large institutional exchange", "An individual or entity holding a massive amount of crypto", "A failed crypto project"],
+        "correct_option_id": 2,
+        "explanation": "Whales hold enough cryptocurrency that their buying or selling can significantly impact market prices."
+    },
+    {
+        "question": "Which network uses the ADA token?",
+        "options": ["Polkadot", "Avalanche", "Cardano", "Cosmos"],
+        "correct_option_id": 2,
+        "explanation": "Cardano is a Proof of Stake blockchain platform whose native cryptocurrency is ADA, named after Ada Lovelace."
+    },
+    {
+        "question": "What does the term 'FUD' stand for?",
+        "options": ["Fear, Uncertainty, and Doubt", "Financial Underground Database", "Fiat Used Daily", "Fully Untraceable Data"],
+        "correct_option_id": 0,
+        "explanation": "FUD is a strategy to influence perception by disseminating negative and dubious or false information."
+    },
+    {
+        "question": "What is a 'DAO'?",
+        "options": ["Digital Asset Offering", "Decentralized Autonomous Organization", "Distributed Application Output", "Direct Access Operation"],
+        "correct_option_id": 1,
+        "explanation": "A DAO is an organization represented by rules encoded as a computer program that is transparent and controlled by members."
+    },
+    {
+        "question": "Which crypto project aims to be an 'Internet of Blockchains'?",
+        "options": ["Cosmos", "Bitcoin", "Dogecoin", "Shiba Inu"],
+        "correct_option_id": 0,
+        "explanation": "Cosmos (ATOM) is an ecosystem of networks and tools for creating interoperable blockchains."
+    },
+    {
+        "question": "What is an 'Airdrop'?",
+        "options": ["A hacking technique", "Free distribution of cryptocurrency tokens to wallet addresses", "A sudden drop in price", "Transferring crypto over Bluetooth"],
+        "correct_option_id": 1,
+        "explanation": "Airdrops are promotional events where a blockchain project distributes free tokens to its community."
+    },
+    {
+        "question": "In what year was the Bitcoin whitepaper published?",
+        "options": ["2005", "2008", "2010", "2013"],
+        "correct_option_id": 1,
+        "explanation": "Satoshi Nakamoto published 'Bitcoin: A Peer-to-Peer Electronic Cash System' on October 31, 2008."
+    },
+    {
+        "question": "What is the 'Mempool'?",
+        "options": ["A pool of liquidity on a DEX", "A collection of unconfirmed transactions waiting to be mined", "A chat room for miners", "A decentralized storage system"],
+        "correct_option_id": 1,
+        "explanation": "The Mempool (memory pool) is a node's mechanism for storing information on unconfirmed transactions."
+    },
+    {
+        "question": "Which blockchain was the first to implement Smart Contracts?",
+        "options": ["Bitcoin", "Ethereum", "Cardano", "Solana"],
+        "correct_option_id": 1,
+        "explanation": "While Bitcoin has basic scripting, Ethereum was the first major blockchain built specifically for Turing-complete smart contracts."
+    },
+    {
+        "question": "What does KYC stand for in crypto exchanges?",
+        "options": ["Keep Your Crypto", "Know Your Coin", "Know Your Customer", "Key Yield Calculation"],
+        "correct_option_id": 2,
+        "explanation": "KYC involves verifying the identity of clients to prevent fraud, money laundering, and illicit activities."
+    },
+    {
+        "question": "What is an ICO?",
+        "options": ["Initial Coin Offering", "Internal Crypto Operation", "Internet Currency Organization", "Initial Contract Output"],
+        "correct_option_id": 0,
+        "explanation": "An ICO is a type of funding using cryptocurrencies, often a form of crowdfunding for a new project."
+    },
+    {
+        "question": "What was the first physical item purchased using Bitcoin?",
+        "options": ["A car", "Two pizzas", "A computer", "A coffee"],
+        "correct_option_id": 1,
+        "explanation": "In 2010, Laszlo Hanyecz paid 10,000 BTC for two Papa John's pizzas in the first recorded real-world transaction."
+    },
+    {
+        "question": "What is 'Staking'?",
+        "options": ["Selling all your crypto", "Locking up crypto to support network security and earn rewards", "Hacking a blockchain node", "Buying a physical coin"],
+        "correct_option_id": 1,
+        "explanation": "In PoS networks, users lock up their tokens to act as validators, securing the network in exchange for yields."
+    },
+    {
+        "question": "What does APY stand for in DeFi?",
+        "options": ["Annual Percentage Yield", "Automated Payout Yearly", "Annual Payment Yield", "All-time Profit Yield"],
+        "correct_option_id": 0,
+        "explanation": "APY calculates the real rate of return earned on an investment, taking into account the effect of compounding interest."
+    },
+    {
+        "question": "Which entity oversees the development of Ethereum?",
+        "options": ["The US Government", "The Bitcoin Foundation", "The Ethereum Foundation", "ConsenSys"],
+        "correct_option_id": 2,
+        "explanation": "The Ethereum Foundation (EF) is a non-profit organization dedicated to supporting Ethereum and related technologies."
+    },
+    {
+        "question": "What is a DEX?",
+        "options": ["Digital Exchange", "Decentralized Exchange", "Distributed Execution", "Digital Ethereum XML"],
+        "correct_option_id": 1,
+        "explanation": "A DEX is a peer-to-peer marketplace where transactions occur directly between crypto traders without an intermediary."
+    },
+    {
+        "question": "What is Uniswap?",
+        "options": ["A centralized exchange", "A popular Decentralized Exchange (DEX) on Ethereum", "A new altcoin", "A hardware wallet"],
+        "correct_option_id": 1,
+        "explanation": "Uniswap is an automated liquidity protocol and one of the most popular decentralized trading protocols."
+    },
+    {
+        "question": "What does AMM stand for in DeFi?",
+        "options": ["Automated Market Maker", "Advanced Money Mechanism", "Asset Management Module", "Automated Mining Machine"],
+        "correct_option_id": 0,
+        "explanation": "An AMM is the underlying protocol that powers decentralized exchanges (DEXs) using algorithmic pricing instead of order books."
+    },
+    {
+        "question": "Which term describes a token representing a fraction of real-world assets like real estate?",
+        "options": ["Stablecoin", "Meme Coin", "Security Token", "Utility Token"],
+        "correct_option_id": 2,
+        "explanation": "Security tokens are digital, liquid contracts for fractions of any asset that already has value, like real estate or equity."
+    },
+    {
+        "question": "What is 'Impermanent Loss'?",
+        "options": ["Losing your hardware wallet", "When deposited tokens lose value compared to simply holding them", "A hacked exchange", "Forgetting your seed phrase"],
+        "correct_option_id": 1,
+        "explanation": "Impermanent loss happens in liquidity pools when the price of deposited assets changes compared to when they were deposited."
+    },
+    {
+        "question": "What is Web3?",
+        "options": ["A new web browser", "The third version of HTML", "A decentralized iteration of the internet based on blockchain", "A new Google product"],
+        "correct_option_id": 2,
+        "explanation": "Web3 (or Web 3.0) is an idea for a new iteration of the World Wide Web incorporating decentralization and token-based economics."
+    },
+    {
+        "question": "What is 'Slippage' in trading?",
+        "options": ["Accidentally selling too much", "The difference between expected price and actual execution price", "Losing your private key", "A slow internet connection"],
+        "correct_option_id": 1,
+        "explanation": "Slippage occurs when market volatility causes an order to execute at a different price than originally requested."
+    },
+    {
+        "question": "Who is the CEO of Binance?",
+        "options": ["Brian Armstrong", "Sam Bankman-Fried", "Changpeng Zhao (CZ)", "Vitalik Buterin"],
+        "correct_option_id": 2,
+        "explanation": "Changpeng Zhao, commonly known as CZ, founded Binance in 2017. (Note: He stepped down in late 2023, Richard Teng is current CEO, but CZ remains the most famous figure)."
+    },
+    {
+        "question": "Which country was the first to adopt Bitcoin as legal tender?",
+        "options": ["USA", "Japan", "El Salvador", "Switzerland"],
+        "correct_option_id": 2,
+        "explanation": "El Salvador became the first country to adopt Bitcoin as legal tender in September 2021."
+    },
+    {
+        "question": "What is the 'Lightning Network'?",
+        "options": ["A fast altcoin", "A Layer 2 scaling solution for Bitcoin", "A new fiber-optic cable for mining", "An Ethereum upgrade"],
+        "correct_option_id": 1,
+        "explanation": "The Lightning Network operates on top of Bitcoin to enable fast, cheap, peer-to-peer microtransactions."
+    },
+    {
+        "question": "What is a 'Layer 2' solution?",
+        "options": ["A backup blockchain", "A secondary framework built on top of an existing blockchain to improve scaling", "A completely separate crypto network", "A two-factor authentication method"],
+        "correct_option_id": 1,
+        "explanation": "Layer 2 solutions (like Polygon or Arbitrum) process transactions off the main chain (Layer 1) to increase speed and lower costs."
+    },
+    {
+        "question": "What does 'To the Moon' mean?",
+        "options": ["A space-themed NFT", "A strong upward trajectory in a coin's price", "A mining facility in space", "A zero-gravity crypto exchange"],
+        "correct_option_id": 1,
+        "explanation": "'To the moon' is a phrase used by crypto enthusiasts to express the belief that a coin's price will rise astronomically."
+    },
+    {
+        "question": "What is a 'Paper Wallet'?",
+        "options": ["A digital receipt", "A printed piece of paper containing crypto public and private keys", "Fiat currency", "A wallet made of recycled materials"],
+        "correct_option_id": 1,
+        "explanation": "A paper wallet is a printed document containing copies of the public and private keys that make up a wallet."
+    },
+    {
+        "question": "What is 'Yield Farming'?",
+        "options": ["Growing digital crops in the metaverse", "Using decentralized finance protocols to generate high returns on crypto assets", "Mining Bitcoin with solar power", "Earning crypto by playing games"],
+        "correct_option_id": 1,
+        "explanation": "Yield farming involves lending or staking cryptocurrency in DeFi protocols to earn interest or more cryptocurrency."
+    },
+    {
+        "question": "Which of these is NOT a cryptocurrency exchange?",
+        "options": ["Coinbase", "Kraken", "Metamask", "Gemini"],
+        "correct_option_id": 2,
+        "explanation": "MetaMask is a non-custodial crypto wallet and gateway to blockchain apps, not a centralized exchange."
+    },
+    {
+        "question": "What is 'Hash Rate'?",
+        "options": ["The speed of a blockchain transaction", "The measure of a miner's computational power", "The rate of crypto inflation", "A cryptographic password"],
+        "correct_option_id": 1,
+        "explanation": "Hash rate is the number of hashes (calculations) a miner or mining network can perform in a given second."
+    },
+    {
+        "question": "What does 'DYOR' stand for?",
+        "options": ["Do Your Own Research", "Daily Yield On Return", "Digital Yield Options Rate", "Determine Your Own Risk"],
+        "correct_option_id": 0,
+        "explanation": "DYOR is a common phrase urging investors to research a project themselves before investing money."
+    },
+    {
+        "question": "What is a 'Shitcoin'?",
+        "options": ["A highly valuable asset", "A coin with no obvious purpose or utility", "A coin used for waste management", "A stablecoin"],
+        "correct_option_id": 1,
+        "explanation": "A 'shitcoin' is a derogatory term for a cryptocurrency with little to no value, utility, or a clear purpose."
+    },
+    {
+        "question": "Which technology secures a blockchain network?",
+        "options": ["Firewalls", "Antivirus software", "Cryptography", "Virtual Private Networks (VPN)"],
+        "correct_option_id": 2,
+        "explanation": "Blockchains rely on complex cryptographic algorithms to secure data, link blocks, and authorize transactions."
+    },
+    {
+        "question": "What is an 'Orphan Block'?",
+        "options": ["A block without transactions", "A valid block that is not part of the main chain", "A block created by an unknown miner", "The first block in a chain"],
+        "correct_option_id": 1,
+        "explanation": "An orphan block (or stale block) is a solved block that was rejected because another block was accepted to the chain first."
+    },
+    {
+        "question": "What is 'Fiat' currency?",
+        "options": ["A car company's token", "Money established as legal tender by government decree", "A cryptocurrency backed by gold", "A decentralized stablecoin"],
+        "correct_option_id": 1,
+        "explanation": "Fiat money is currency (like the US Dollar or Euro) that is not backed by a physical commodity but by government decree."
+    },
+    {
+        "question": "Which of the following describes a 'Bull Market'?",
+        "options": ["A market where prices are dropping", "A market characterized by rising prices and optimism", "A sideways market", "A market only for Bitcoin"],
+        "correct_option_id": 1,
+        "explanation": "A bull market is a period where investment prices are rising, and public sentiment is highly positive."
+    },
+    {
+        "question": "Which cryptocurrency uses the ticker symbol 'XRP'?",
+        "options": ["Stellar", "Cardano", "Ripple", "Tezos"],
+        "correct_option_id": 2,
+        "explanation": "XRP is the native cryptocurrency used by the Ripple payment network for cross-border transactions."
+    },
+    {
+        "question": "What does an 'Oracle' do in the context of smart contracts?",
+        "options": ["Predicts crypto prices", "Provides real-world off-chain data to a blockchain", "Mines new blocks", "Hacks wallets"],
+        "correct_option_id": 1,
+        "explanation": "Blockchain oracles (like Chainlink) act as a bridge, feeding external data (like weather or prices) into smart contracts."
+    },
+    {
+        "question": "What is 'Market Capitalization' (Market Cap) in crypto?",
+        "options": ["The total money invested", "The current price multiplied by circulating supply", "The maximum possible supply", "The trading volume in 24 hours"],
+        "correct_option_id": 1,
+        "explanation": "Market cap is calculated by multiplying the current price of a single coin by its total circulating supply."
+    },
+    {
+        "question": "Which token standard is predominantly used for NFTs on Ethereum?",
+        "options": ["ERC-20", "ERC-721", "BEP-20", "TRC-20"],
+        "correct_option_id": 1,
+        "explanation": "ERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain."
+    },
+    {
+        "question": "What is the primary purpose of the 'Brave' browser in Web3?",
+        "options": ["To block all crypto sites", "To mine Bitcoin in the background", "To block ads and reward users with BAT tokens", "To provide a free VPN"],
+        "correct_option_id": 2,
+        "explanation": "Brave Browser blocks trackers and ads by default, allowing users to earn Basic Attention Tokens (BAT) for viewing privacy-respecting ads."
+    },
+    {
+        "question": "What is a 'Node'?",
+        "options": ["A hacker", "A computer connected to a blockchain network", "A specific type of cryptocurrency", "A smart contract developer"],
+        "correct_option_id": 1,
+        "explanation": "A node is any computer that connects to a blockchain network, maintaining a copy of the ledger and validating transactions."
+    },
+    {
+        "question": "What does 'P2P' stand for?",
+        "options": ["Pay to Play", "Point to Point", "Peer to Peer", "Public to Private"],
+        "correct_option_id": 2,
+        "explanation": "Peer-to-Peer refers to a decentralized network architecture where participants interact directly without a central server."
+    },
+    {
+        "question": "What is the 'Metaverse'?",
+        "options": ["Facebook's new name", "A shared virtual world utilizing VR, AR, and blockchain", "A new crypto exchange", "A layer 1 blockchain"],
+        "correct_option_id": 1,
+        "explanation": "The Metaverse is a conceptual unified 3D virtual space, often utilizing cryptocurrencies and NFTs for digital ownership."
+    },
+    {
+        "question": "What does the 'SHA-256' algorithm do?",
+        "options": ["Trades stocks automatically", "Encrypts WhatsApp messages", "Powers Bitcoin's proof-of-work mining", "Generates NFT art"],
+        "correct_option_id": 2,
+        "explanation": "SHA-256 (Secure Hash Algorithm 256-bit) is the cryptographic hash function used by Bitcoin for block generation and security."
+    },
+    {
+        "question": "Which of these platforms is an NFT marketplace?",
+        "options": ["Coinbase", "OpenSea", "Aave", "Uniswap"],
+        "correct_option_id": 1,
+        "explanation": "OpenSea is the world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs)."
+    },
+    {
+        "question": "What is a 'Soft Fork'?",
+        "options": ["A minor eating utensil", "A backward-compatible upgrade to a blockchain", "A permanent divergence in a blockchain", "A hacked smart contract"],
+        "correct_option_id": 1,
+        "explanation": "A soft fork is a software upgrade that is backward compatible, meaning non-upgraded nodes still recognize new blocks as valid."
+    },
+    {
+        "question": "What is a 'Hard Fork'?",
+        "options": ["A backward-compatible update", "A radical change to the protocol that makes old blocks invalid", "A drop in crypto prices", "A physical crypto theft"],
+        "correct_option_id": 1,
+        "explanation": "A hard fork is a permanent divergence from the previous version of the blockchain, often resulting in a new cryptocurrency (e.g., Bitcoin Cash)."
+    },
+    {
+        "question": "Which term describes selling an asset you don't own, hoping the price drops?",
+        "options": ["Longing", "Shorting", "Staking", "Farming"],
+        "correct_option_id": 1,
+        "explanation": "Shorting (or short selling) is a trading strategy where an investor borrows an asset, sells it, and hopes to buy it back cheaper later."
+    },
+    {
+        "question": "What does 'REKT' mean in crypto slang?",
+        "options": ["To get rich", "To lose a lot of money in a bad trade", "To successfully mine a block", "To launch a new token"],
+        "correct_option_id": 1,
+        "explanation": "'Rekt' is intentional misspelling of 'wrecked', used when a trader suffers severe financial loss."
+    },
+    {
+        "question": "What is 'Liquidity'?",
+        "options": ["The amount of water used by miners", "The ease with which an asset can be converted into cash without affecting its price", "The speed of a blockchain", "The total supply of a coin"],
+        "correct_option_id": 1,
+        "explanation": "High liquidity means there are enough buyers and sellers in the market so that trading doesn't cause massive price swings."
+    },
+    {
+        "question": "Which scaling solution does Polygon provide for Ethereum?",
+        "options": ["Proof of Work", "Layer 2 sidechains", "Sharding", "Lightning Network"],
+        "correct_option_id": 1,
+        "explanation": "Polygon (formerly Matic) is a Layer 2 scaling framework that builds sidechains to process transactions faster and cheaper than the Ethereum mainnet."
+    },
+    {
+        "question": "What is the main function of 'Chainlink' (LINK)?",
+        "options": ["A meme coin", "A decentralized oracle network", "An NFT marketplace", "A stablecoin"],
+        "correct_option_id": 1,
+        "explanation": "Chainlink provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain."
+    },
+    {
+        "question": "What does the term 'Bagholder' mean?",
+        "options": ["Someone who carries physical cash", "An investor left holding assets that have become worthless", "A successful day trader", "A crypto wallet developer"],
+        "correct_option_id": 1,
+        "explanation": "A bagholder is an informal term for an investor who holds onto poorly performing assets until they are essentially worthless."
+    },
+    {
+        "question": "What is 'Phishing' in crypto?",
+        "options": ["A fishing game in the metaverse", "A scam where attackers trick victims into revealing private keys", "Mining underwater", "Searching for low-cap gems"],
+        "correct_option_id": 1,
+        "explanation": "Phishing is a cybercrime where targets are contacted by scammers posing as legitimate institutions to steal sensitive data like seed phrases."
+    },
+    {
+        "question": "Which of these is considered an 'Altcoin'?",
+        "options": ["Bitcoin", "Ethereum", "Solana", "Both Ethereum and Solana"],
+        "correct_option_id": 3,
+        "explanation": "Technically, any cryptocurrency that is not Bitcoin is classified as an 'Altcoin' (Alternative Coin)."
+    },
+    {
+        "question": "What does 'TVL' stand for in DeFi?",
+        "options": ["Total Value Locked", "Token Volume Level", "Trading Volume Limits", "Total Verified Ledger"],
+        "correct_option_id": 0,
+        "explanation": "TVL represents the total amount of assets that are currently being staked or locked in a specific DeFi protocol."
+    },
+    {
+        "question": "What is the purpose of a 'Whitepaper'?",
+        "options": ["To print crypto wallets", "A document outlining the technical and financial details of a new crypto project", "A contract for buying Bitcoin", "A blank block in the blockchain"],
+        "correct_option_id": 1,
+        "explanation": "A whitepaper is a comprehensive document released by developers that explains the technology, purpose, and tokenomics of a new project."
+    },
+    {
+        "question": "What is an 'ASIC' in cryptocurrency?",
+        "options": ["A specialized hardware chip designed specifically for mining", "A new trading algorithm", "A regulatory agency", "An altcoin"],
+        "correct_option_id": 0,
+        "explanation": "Application-Specific Integrated Circuits (ASICs) are customized computer chips designed solely to mine cryptocurrencies like Bitcoin efficiently."
+    },
+    {
+        "question": "Which crypto term refers to selling a large amount of a coin to cause a price crash?",
+        "options": ["Pumping", "Dumping", "Staking", "Farming"],
+        "correct_option_id": 1,
+        "explanation": "Dumping is the act of heavily selling off an asset, often part of a 'Pump and Dump' manipulation scheme."
+    },
+    {
+        "question": "What is a 'Central Bank Digital Currency' (CBDC)?",
+        "options": ["A decentralized stablecoin", "Digital money issued and regulated by a nation's central bank", "Bitcoin held by banks", "A scam token"],
+        "correct_option_id": 1,
+        "explanation": "CBDCs are digital versions of a country's fiat currency, entirely centralized and controlled by the government."
+    },
+    {
+        "question": "What does 'Tokenomics' refer to?",
+        "options": ["The economics of a specific token including supply, distribution, and utility", "A textbook on trading", "The cost of gas fees", "The study of NFTs"],
+        "correct_option_id": 0,
+        "explanation": "Tokenomics analyzes the qualities of a cryptocurrency that make it appealing to investors, including its supply limits and utility."
+    },
+    {
+        "question": "Who or what is 'Satoshi'?",
+        "options": ["The Japanese word for money", "The smallest fraction of a Bitcoin", "The founder of Ethereum", "A hardware wallet brand"],
+        "correct_option_id": 1,
+        "explanation": "A Satoshi is the smallest unit of Bitcoin (0.00000001 BTC), named after its pseudonymous creator."
+    },
+    {
+        "question": "What is an 'Initial Exchange Offering' (IEO)?",
+        "options": ["Opening a new exchange", "A token sale conducted on a centralized exchange platform", "A government ban on crypto", "Mining a new token"],
+        "correct_option_id": 1,
+        "explanation": "An IEO is similar to an ICO, but the token sale is managed and guaranteed by a cryptocurrency exchange on behalf of the startup."
+    },
+    {
+        "question": "What is the 'Block Time' of Bitcoin?",
+        "options": ["1 minute", "10 minutes", "1 hour", "1 day"],
+        "correct_option_id": 1,
+        "explanation": "Bitcoin is designed to adjust its mining difficulty so that a new block is discovered approximately every 10 minutes."
+    },
+    {
+        "question": "What is 'Sharding'?",
+        "options": ["Destroying a hard drive", "Dividing a blockchain network into smaller partitions to improve scalability", "Losing crypto in a hack", "A type of crypto trading"],
+        "correct_option_id": 1,
+        "explanation": "Sharding splits a blockchain network into smaller, manageable pieces (shards) to process transactions in parallel, increasing speed."
+    },
+    {
+        "question": "What does the term 'WAGMI' stand for?",
+        "options": ["We Are Going to Make It", "Where Are Group Miners Investing", "World Asset Growth Model Index", "We Accept Great Market Ideas"],
+        "correct_option_id": 0,
+        "explanation": "WAGMI is an optimistic slang term used by crypto and NFT communities to build morale and hope for financial success."
+    },
+    {
+        "question": "What is 'Double Spending'?",
+        "options": ["Paying high gas fees", "The flaw where a digital token can be spent more than once", "Buying two of the same NFT", "Using both Bitcoin and Ethereum"],
+        "correct_option_id": 1,
+        "explanation": "Double-spending is the risk that a digital currency can be spent twice. Blockchain solves this by using a decentralized public ledger."
+    },
+    {
+        "question": "Which of these is a popular hardware wallet brand?",
+        "options": ["MetaMask", "Trust Wallet", "Ledger", "Coinbase Wallet"],
+        "correct_option_id": 2,
+        "explanation": "Ledger and Trezor are the two most prominent manufacturers of physical hardware wallets (cold storage)."
+    },
+    {
+        "question": "What is 'Arbitrage'?",
+        "options": ["A type of smart contract", "Buying an asset on one exchange and selling it on another for a higher price", "Losing money to high fees", "Holding a coin for a year"],
+        "correct_option_id": 1,
+        "explanation": "Arbitrage traders exploit price discrepancies between different exchanges to make a low-risk profit."
+    },
+    {
+        "question": "What is the primary feature of 'Privacy Coins' like Zcash?",
+        "options": ["They are completely centralized", "They conceal transaction histories and wallet balances", "They are only used on the dark web", "They cannot be sold for fiat"],
+        "correct_option_id": 1,
+        "explanation": "Privacy coins utilize cryptographic techniques like zero-knowledge proofs to keep transactions anonymous and untraceable."
+    },
+    {
+        "question": "What is the Polkadot (DOT) blockchain designed to do?",
+        "options": ["Mine faster than Bitcoin", "Connect multiple blockchains together", "Replace Ethereum", "Generate NFTs"],
+        "correct_option_id": 1,
+        "explanation": "Polkadot is a multi-chain network protocol that connects different blockchains, allowing data and value to be transferred seamlessly."
+    },
+    {
+        "question": "Which DeFi protocol allows users to earn interest by lending cryptocurrencies?",
+        "options": ["Uniswap", "Aave", "SushiSwap", "Compound"],
+        "correct_option_id": 3,
+        "explanation": "Compound is a decentralized lending protocol where users can deposit crypto to earn interest from borrowers."
+    },
+    {
+        "question": "What does 'Gwei' stand for?",
+        "options": ["Gigawei", "General Wei", "Global Wei Exchange", "Giga Wei"],
+        "correct_option_id": 0,
+        "explanation": "Gwei (Gigawei) is a denomination of Ethereum equal to one billionth of an ETH, commonly used for expressing gas fees."
+    },
+    {
+        "question": "Which exchange went public and trades on the NASDAQ?",
+        "options": ["Kraken", "Coinbase", "Binance", "FTX"],
+        "correct_option_id": 1,
+        "explanation": "Coinbase Global is publicly traded on NASDAQ, making it one of the most legitimate and regulated crypto exchanges."
+    },
+    {
+        "question": "What does 'KYL' stand for?",
+        "options": ["Know Your Ledger", "Keep Your License", "Know Your Liquidity", "Key Yield Listing"],
+        "correct_option_id": 2,
+        "explanation": "Know Your Liquidity (KYL) emphasizes understanding the liquidity of assets before trading or investing in them."
+    },
+    {
+        "question": "Which token is used to vote on governance proposals in Compound?",
+        "options": ["COMP", "UNISWAP", "AAVE", "LINK"],
+        "correct_option_id": 0,
+        "explanation": "The COMP token gives holders voting rights in the Compound protocol's governance decisions."
+    },
+    {
+        "question": "What is 'Sybil Attack' in blockchain security?",
+        "options": ["A 51% attack", "Creating multiple fake identities to manipulate a network", "Stealing seeds phrases", "Flooding a mempool"],
+        "correct_option_id": 1,
+        "explanation": "A Sybil attack involves creating multiple fraudulent identities to gain disproportionate control over a network."
+    },
+    {
+        "question": "Which token is the governance token for Uniswap?",
+        "options": ["UNI", "UNS", "UNX", "UNIK"],
+        "correct_option_id": 0,
+        "explanation": "UNI is Uniswap's governance token, allowing holders to vote on protocol changes and enhancements."
+    },
+    {
+        "question": "What is 'Flash Loan' in DeFi?",
+        "options": ["A quick personal loan", "An uncollateralized loan that must be returned in the same transaction", "A type of savings account", "Mining a block quickly"],
+        "correct_option_id": 1,
+        "explanation": "Flash loans are a unique DeFi feature where users can borrow large amounts of crypto without collateral, as long as they repay it in the same transaction block."
+    },
+    {
+        "question": "Which network is known for extremely low transaction fees and high speed?",
+        "options": ["Bitcoin", "Ethereum", "Solana", "Cardano"],
+        "correct_option_id": 2,
+        "explanation": "Solana is known for its extremely fast transaction speeds (thousands per second) and low fees through parallel processing."
+    },
+    {
+        "question": "What does 'MEV' stand for in blockchain?",
+        "options": ["Minimum Exchange Value", "Maximal Extractable Value", "Money Exchange Volatility", "Market Entry Value"],
+        "correct_option_id": 1,
+        "explanation": "MEV refers to the profit that can be extracted by a validator or miner by ordering or censoring transactions within a block."
+    },
+    {
+        "question": "Which cryptocurrency uses a different algorithm called Scrypt?",
+        "options": ["Bitcoin", "Litecoin", "Ethereum", "Ripple"],
+        "correct_option_id": 1,
+        "explanation": "Litecoin was designed to use Scrypt as its proof-of-work algorithm, which was easier to mine on consumer GPUs than Bitcoin's SHA-256."
+    },
+    {
+        "question": "What is a 'Liquidity Pool'?",
+        "options": ["A public swimming area", "A collective pot of tokens locked in a smart contract for DEX trading", "A bank reserve fund", "A mining pool"],
+        "correct_option_id": 1,
+        "explanation": "Liquidity pools are smart contracts that hold pairs of tokens, enabling decentralized exchanges and allowing users to earn fees as liquidity providers."
+    },
+    {
+        "question": "Which protocol pioneered 'Automated Market Makers' (AMMs)?",
+        "options": ["Binance DEX", "Uniswap", "0x Protocol", "Curve Finance"],
+        "correct_option_id": 1,
+        "explanation": "Uniswap revolutionized DEX trading by introducing the Automated Market Maker model, using simple mathematical formulas instead of order books."
+    },
+    {
+        "question": "What is 'Wrapped Bitcoin' (WBTC)?",
+        "options": ["Bitcoin locked in a vault", "Bitcoin converted to an ERC-20 token to use on Ethereum", "A Bitcoin mining stock", "A Bitcoin futures contract"],
+        "correct_option_id": 1,
+        "explanation": "Wrapped Bitcoin (WBTC) is an ERC-20 token on Ethereum that represents Bitcoin 1:1, allowing Bitcoin to be used in DeFi applications."
+    },
+    {
+        "question": "Which crypto exchange founder is known for the saying 'In crypto we trust'?",
+        "options": ["Brian Armstrong", "CZ", "Justin Sun", "Do Kwon"],
+        "correct_option_id": 0,
+        "explanation": "Brian Armstrong, CEO of Coinbase, has championed cryptocurrency adoption and the phrase 'In crypto we trust' aligns with his vision for decentralization."
+    },
+    {
+        "question": "What is a 'Bear Whale'?",
+        "options": ["A whale that always loses money", "A large entity that sells massive amounts to drive the price down", "An endangered sea creature", "A bearish market crash"],
+        "correct_option_id": 1,
+        "explanation": "A bear whale is a large entity using their capital to push prices downward, influencing the market negatively."
+    },
+    {
+        "question": "Which term describes a market that trades sideways with no clear direction?",
+        "options": ["Bull Market", "Bear Market", "Sideways Market", "Range-bound Market"],
+        "correct_option_id": 3,
+        "explanation": "A range-bound market is one where prices fluctuate within a defined range with no clear uptrend or downtrend."
+    },
+    {
+        "question": "What is 'Bitcoin Dominance'?",
+        "options": ["The price of Bitcoin", "Bitcoin's percentage of the total cryptocurrency market cap", "The number of Bitcoin nodes", "How many countries accept Bitcoin"],
+        "correct_option_id": 1,
+        "explanation": "Bitcoin dominance is the percentage of Bitcoin's market cap relative to the total cryptocurrency market cap."
+    },
+    {
+        "question": "Which blockchain is known for supporting Cardano (ADA)?",
+        "options": ["Ethereum", "Solana", "Cardano itself", "Polkadot"],
+        "correct_option_id": 2,
+        "explanation": "Cardano is a blockchain platform developed by Charles Hoskinson and Emurgo that uses the Ouroboros consensus mechanism."
+    },
+    {
+        "question": "What does 'AML' stand for in crypto compliance?",
+        "options": ["Anti-Money Laundering", "Automated Machine Learning", "Account Management Layer", "Asset Market Limit"],
+        "correct_option_id": 0,
+        "explanation": "AML (Anti-Money Laundering) regulations require crypto exchanges to implement controls to prevent illegal financial activities."
+    },
+    {
+        "question": "Which stablecoin is algorithmically backed and is NOT backed by reserves?",
+        "options": ["USDT", "USDC", "Terra Luna USD", "DAI"],
+        "correct_option_id": 2,
+        "explanation": "Terra Luna USD (UST) was an algorithmic stablecoin that collapsed in May 2022, losing its peg and causing massive losses."
+    },
+    {
+        "question": "What is an 'Exit Scam'?",
+        "options": ["A stock market exit", "Abandoning a crypto project and running away with investor funds", "Selling your crypto", "Closing an exchange"],
+        "correct_option_id": 1,
+        "explanation": "An exit scam occurs when crypto project founders or exchange operators abruptly shut down and disappear with user funds."
+    },
+    {
+        "question": "Which protocol pioneered 'Automated Liquidity Protocols'?",
+        "options": ["Uniswap", "SushiSwap", "Curve Finance", "Balancer"],
+        "correct_option_id": 0,
+        "explanation": "Uniswap was the first to implement an automated liquidity protocol where anyone could become a market maker by providing liquidity to pools."
+    },
+    {
+        "question": "What is 'Quantum Computing' threat to crypto?",
+        "options": ["Quantum computers can't affect crypto", "Quantum computers could break current encryption", "Quantum mining makes Bitcoin faster", "Quantum is a blockchain"],
+        "correct_option_id": 1,
+        "explanation": "Quantum computers could theoretically break current elliptic curve cryptography, posing a future threat to cryptocurrency security."
+    },
+    {
+        "question": "Which DeFi protocol specializes in stablecoins?",
+        "options": ["Uniswap", "Curve Finance", "Aave", "Yearn Finance"],
+        "correct_option_id": 1,
+        "explanation": "Curve Finance is optimized for stablecoin trading with low slippage due to its specially designed AMM for similar-value assets."
+    },
+    {
+        "question": "What is 'Smart Contract Audit'?",
+        "options": ["Checking smart contract code for bugs and security issues", "Auditing a company's finances", "Mining smart contracts", "Testing smart contracts on live networks"],
+        "correct_option_id": 0,
+        "explanation": "A smart contract audit involves professional security experts reviewing code to find vulnerabilities before deployment."
+    },
+    {
+        "question": "Which blockchain is Solana's token used to pay network fees?",
+        "options": ["ETH", "SOL", "ADA", "XRP"],
+        "correct_option_id": 1,
+        "explanation": "SOL is Solana's native token, used to pay for transaction fees and to stake for network security."
+    },
+    {
+        "question": "What is a 'Mnemonic Phrase'?",
+        "options": ["A password for exchanges", "A 12 or 24-word recovery phrase for wallets", "A trading strategy", "A type of NFT"],
+        "correct_option_id": 1,
+        "explanation": "A mnemonic phrase is the same as a seed phrase—a set of words that can recover a crypto wallet."
+    },
+    {
+        "question": "Which DeFi protocol allows users to borrow stablecoins?",
+        "options": ["Uniswap", "Aave", "OpenSea", "Curve"],
+        "correct_option_id": 1,
+        "explanation": "Aave allows users to deposit collateral and borrow stablecoins or other cryptocurrencies against it."
+    },
+    {
+        "question": "What is 'Protocol Governance'?",
+        "options": ["Government regulation of crypto", "Token holders voting on protocol changes", "Exchange listing rules", "Mining regulations"],
+        "correct_option_id": 1,
+        "explanation": "Protocol governance allows token holders to vote on upgrades and changes to a blockchain or DeFi protocol through smart contracts."
+    },
+    {
+        "question": "Which term describes when you can't access your wallet due to lost keys?",
+        "options": ["Hodling", "Rekt", "Locked out", "Lost seed phrase"],
+        "correct_option_id": 3,
+        "explanation": "Losing your seed phrase means you can permanently lose access to your crypto if you forget your password."
+    },
+    {
+        "question": "What is 'Token Burn'?",
+        "options": ["Destroying tokens accidentally", "Intentionally removing tokens from circulation permanently", "Losing crypto in a scam", "Trading tokens for fiat"],
+        "correct_option_id": 1,
+        "explanation": "Token burning is the intentional destruction of tokens to reduce supply and potentially increase the value of remaining tokens."
+    },
+    {
+        "question": "Which blockchain has the most DeFi applications?",
+        "options": ["Solana", "Ethereum", "Avalanche", "Polygon"],
+        "correct_option_id": 1,
+        "explanation": "Ethereum has the largest ecosystem of DeFi protocols and applications, though Solana and others are growing rapidly."
+    },
+    {
+        "question": "What is a '51% Attack'?",
+        "options": ["When Bitcoin falls 51%", "Controlling 51% of a blockchain's mining power to manipulate it", "Selling 51% of your crypto", "A hack affecting 51 exchanges"],
+        "correct_option_id": 1,
+        "explanation": "A 51% attack occurs when someone controls over half of a network's computing power, allowing them to reverse transactions."
+    },
+    {
+        "question": "Which token uses the Delegated Proof of Stake consensus?",
+        "options": ["Bitcoin", "Cosmos", "Ethereum", "Litecoin"],
+        "correct_option_id": 1,
+        "explanation": "Cosmos (ATOM) uses Delegated Proof of Stake, where token holders vote for validators to secure the network."
+    },
+    {
+        "question": "What is 'Cross-Chain Bridge'?",
+        "options": ["A physical bridge", "Technology enabling asset transfer between different blockchains", "An exchange bridge", "A road network"],
+        "correct_option_id": 1,
+        "explanation": "Cross-chain bridges allow users to move assets from one blockchain to another seamlessly."
+    },
+    {
+        "question": "What does the term 'Pump and Dump' refer to?",
+        "options": ["Mining operation", "Artificially inflating a coin's price then selling for profit", "Trading volume increase", "Gas pump fees"],
+        "correct_option_id": 1,
+        "explanation": "Pump and dump is a market manipulation scheme where orchestrated buying increases price, then sellers dump to profit."
+    },
+    {
+        "question": "Which token represents voting power in the Aave protocol?",
+        "options": ["AAV", "AAVE", "AV", "AAVG"],
+        "correct_option_id": 1,
+        "explanation": "AAVE is the governance token of the Aave lending protocol, allowing holders to vote on protocol decisions."
+    },
+    {
+        "question": "What is 'Maximum Extractable Value' used for?",
+        "options": ["Mining Bitcoin", "Analyzing profit opportunities from transaction ordering", "Trading strategy", "Block size calculation"],
+        "correct_option_id": 1,
+        "explanation": "MEV analysis helps identify opportunities where validators can profit from transaction ordering within blocks."
+    },
+    {
+        "question": "Which currency is XLM the ticker for?",
+        "options": ["Litecoin", "Stellar Lumens", "Monero", "Tezos"],
+        "correct_option_id": 1,
+        "explanation": "XLM is the native token of the Stellar network, designed for fast, low-cost cross-border payments."
+    },
+    {
+        "question": "What is 'Rebase' token mechanism?",
+        "options": ["Changing token price manually", "Automatically adjusting token supply to maintain price stability", "Mining reward system", "Exchange rate adjustment"],
+        "correct_option_id": 1,
+        "explanation": "Rebase tokens automatically adjust the supply to all holders proportionally, attempting to maintain a target price."
+    },
+    {
+        "question": "Which network specializes in privacy with RingCT technology?",
+        "options": ["Bitcoin", "Ethereum", "Monero", "Polkadot"],
+        "correct_option_id": 2,
+        "explanation": "Monero uses RingCT (Ring Confidential Transactions) to hide transaction amounts and obscure sender/receiver information."
+    },
+    {
+        "question": "What does 'ARP' stand for in crypto security?",
+        "options": ["Anti-Replay Protocol", "Address Resolution Protocol", "Asset Recovery Plan", "Account Risk Protection"],
+        "correct_option_id": 1,
+        "explanation": "The Address Resolution Protocol (ARP) is a network protocol, though in crypto context, it relates to network communication security."
+    },
+    {
+        "question": "Which exchange is known for its token listing governance model?",
+        "options": ["Binance", "Coinbase", "Kraken", "KuCoin"],
+        "correct_option_id": 0,
+        "explanation": "Binance uses community voting for new token listings through their Binance Community Vote initiative."
+    },
+    {
+        "question": "What is 'Zero-Knowledge Proof'?",
+        "options": ["Proving you have something without revealing it", "A type of encryption", "A smart contract", "A mining algorithm"],
+        "correct_option_id": 0,
+        "explanation": "Zero-knowledge proofs allow you to prove you know or possess something without revealing the actual information."
+    },
+    {
+        "question": "Which blockchain is known for throughput of over 10,000 TPS?",
+        "options": ["Bitcoin", "Ethereum", "Solana", "Cardano"],
+        "correct_option_id": 2,
+        "explanation": "Solana is marketed with theoretical throughput capacity of over 10,000 transactions per second."
+    },
+    {
+        "question": "What is an 'Escrow Service'?",
+        "options": ["A mining pool", "A neutral third party holding funds until transaction conditions are met", "An exchange", "A wallet service"],
+        "correct_option_id": 1,
+        "explanation": "Escrow services hold crypto in trust until agreed-upon conditions are fulfilled, protecting both parties in a transaction."
+    },
+    {
+        "question": "Which protocol allows creating synthetic assets?",
+        "options": ["Uniswap", "Aave", "Synthetix", "Yearn"],
+        "correct_option_id": 2,
+        "explanation": "Synthetix allows users to mint and trade synthetic assets (synths) that track the value of real assets on-chain."
+    },
+    {
+        "question": "What is 'Network Effect' in crypto?",
+        "options": ["Network speed increase", "Value increases as more people use the network", "Mining difficulty", "Transaction confirmation time"],
+        "correct_option_id": 1,
+        "explanation": "Network effect means that as more people join a network, its value increases for all participants."
+    },
+    {
+        "question": "Which token uses the ticker XMR?",
+        "options": ["Ethereum", "Monero", "Stellar", "Ripple"],
+        "correct_option_id": 1,
+        "explanation": "XMR is the ticker for Monero, a privacy-focused cryptocurrency with untraceable transactions."
+    },
+    {
+        "question": "What is 'Collateral' in DeFi lending?",
+        "options": ["Interest on loans", "Assets pledged to secure a loan", "Trading fees", "Mining rewards"],
+        "correct_option_id": 1,
+        "explanation": "Collateral is crypto deposited as security for a DeFi loan, protecting lenders if borrowers default."
+    },
+    {
+        "question": "Which network has the lowest average transaction fees?",
+        "options": ["Ethereum", "Bitcoin", "Solana", "Cardano"],
+        "correct_option_id": 2,
+        "explanation": "Solana consistently offers the lowest transaction fees among major blockchains, often fractions of a cent."
+    },
+    {
+        "question": "What does 'GWEI' equal in ETH?",
+        "options": ["1 ETH", "0.000000001 ETH", "1,000,000,000 ETH", "0.000001 ETH"],
+        "correct_option_id": 1,
+        "explanation": "1 Gwei equals 0.000000001 ETH (one billionth of an ETH), commonly used for expressing gas fees."
+    },
+    {
+        "question": "Which DeFi protocol specializes in options trading?",
+        "options": ["Uniswap", "Hegic", "Curve", "Balancer"],
+        "correct_option_id": 1,
+        "explanation": "Hegic is a DeFi protocol that allows users to trade cryptocurrency options on-chain."
+    },
+    {
+        "question": "What is 'Sandwich Attack'?",
+        "options": ["A food-related scam", "When a miner places transactions before and after yours to profit", "A type of malware", "A trading pair"],
+        "correct_option_id": 1,
+        "explanation": "Sandwich attacks occur when miners or bots see pending transactions and insert their own to profit from price movements."
+    },
+    {
+        "question": "Which token uses the Tezos blockchain?",
+        "options": ["XTZ", "XTS", "TZ", "TEZ"],
+        "correct_option_id": 0,
+        "explanation": "XTZ is the native token of the Tezos blockchain, designed for on-chain governance and upgrades."
+    },
+    {
+        "question": "What is a 'Governance Attack'?",
+        "options": ["Hacking a governance website", "Using voting tokens to maliciously alter protocol decisions", "An exchange being hacked", "Mining attack"],
+        "correct_option_id": 1,
+        "explanation": "Governance attacks involve bad actors accumulating voting tokens to push harmful protocol changes."
+    },
+    {
+        "question": "Which stablecoin is backed by USDC and other reserves?",
+        "options": ["USDT", "DAI", "BUSD", "USDC"],
+        "correct_option_id": 2,
+        "explanation": "BUSD (Binance USD) is a stablecoin backed by USD reserves and other assets, regulated by Paxos."
+    },
+    {
+        "question": "What is 'Atomic Swap'?",
+        "options": ["A nuclear transaction", "Peer-to-peer exchange of cryptocurrencies from different blockchains", "Swapping tokens on DEX", "Mining process"],
+        "correct_option_id": 1,
+        "explanation": "Atomic swaps enable direct exchange of cryptocurrencies between different blockchains without intermediaries."
+    },
+    {
+        "question": "Which network is known for its extended UTXO model?",
+        "options": ["Ethereum", "Cardano", "Solana", "Polkadot"],
+        "correct_option_id": 1,
+        "explanation": "Cardano uses an extended UTXO (Unspent Transaction Output) model that provides more flexibility than Bitcoin's basic UTXO."
+    },
+    {
+        "question": "What is 'Flash Crash'?",
+        "options": ["A quick code fix", "Sudden dramatic price drop followed by quick recovery", "A network failure", "Accidental sale of crypto"],
+        "correct_option_id": 1,
+        "explanation": "Flash crashes are sudden, severe price drops often caused by liquidations or large sell orders, usually reversing quickly."
+    },
+    {
+        "question": "Which protocol allows farming governance tokens?",
+        "options": ["Uniswap", "Yearn Finance", "OpenSea", "Aave"],
+        "correct_option_id": 1,
+        "explanation": "Yearn Finance specializes in yield farming strategies to automatically optimize returns for users depositing tokens."
+    },
+    {
+        "question": "What does 'Composability' mean in DeFi?",
+        "options": ["Playing music with crypto", "Protocols being able to work together like Lego bricks", "Composing smart contracts", "Musical token trading"],
+        "correct_option_id": 1,
+        "explanation": "Composability in DeFi refers to the ability of different protocols to interact seamlessly, creating 'money legos'."
+    },
+    {
+        "question": "Which cryptocurrency has a supply capped at 100 million coins?",
+        "options": ["Bitcoin", "Ripple (XRP)", "Ethereum", "Litecoin"],
+        "correct_option_id": 1,
+        "explanation": "Ripple (XRP) has a maximum supply of 100 million XRP, with most held in escrow by Ripple Labs."
+    },
+    {
+        "question": "What is 'Proof of Authority' (PoA)?",
+        "options": ["Government approval of crypto", "Validators are known and put their reputation at stake", "Voting system", "Mining difficulty"],
+        "correct_option_id": 1,
+        "explanation": "Proof of Authority is a consensus mechanism where approved validators' identities are publicly known, risking reputation."
+    },
+    {
+        "question": "Which DeFi platform allows lending with variable interest rates?",
+        "options": ["Compound", "Uniswap", "Curve", "SushiSwap"],
+        "correct_option_id": 0,
+        "explanation": "Compound's interest rates adjust based on supply and demand, varying dynamically over time."
+    },
+    {
+        "question": "What is 'Crypto Winter'?",
+        "options": ["A cold climate for mining", "A prolonged bearish period in crypto markets", "Winter season in crypto countries", "A mining difficulty adjustment"],
+        "correct_option_id": 1,
+        "explanation": "Crypto winter refers to extended periods of declining prices and pessimism, similar to traditional market downturns."
+    },
+    {
+        "question": "Which token does Binance use for fee discounts?",
+        "options": ["BUSD", "USDT", "BNB", "ETH"],
+        "correct_option_id": 2,
+        "explanation": "BNB (Binance Coin) provides trading fee discounts on the Binance exchange when used to pay transaction fees."
+    },
+    {
+        "question": "What is 'Margin Trading'?",
+        "options": ["Trading with borrowed money to amplify gains", "Trading small amounts", "Trading only margins", "Border trading"],
+        "correct_option_id": 0,
+        "explanation": "Margin trading allows users to borrow funds to trade larger amounts, amplifying both potential gains and losses."
+    },
+    {
+        "question": "Which consensus uses randomness in block validation?",
+        "options": ["Proof of Work", "Proof of Stake", "Proof of History", "Proof of Authority"],
+        "correct_option_id": 2,
+        "explanation": "Solana's Proof of History uses cryptographic timestamps, introducing elements of ordered randomness."
+    },
+    {
+        "question": "What is a 'Crypto ATM'?",
+        "options": ["Automated Trading Machine", "A physical machine for buying and selling crypto with cash", "A software platform", "Mining equipment"],
+        "correct_option_id": 1,
+        "explanation": "Crypto ATMs are physical machines allowing users to buy or sell cryptocurrencies using fiat currency."
+    },
+    {
+        "question": "Which blockchain is known for smart contract determinism?",
+        "options": ["Ethereum", "Solana", "Bitcoin", "Litecoin"],
+        "correct_option_id": 0,
+        "explanation": "Ethereum is known for deterministic smart contract execution—the same inputs always produce the same outputs."
+    },
+    {
+        "question": "What does 'HODL' cultural movement represent?",
+        "options": ["Panic selling strategy", "Long-term holding despite market fluctuations", "Day trading approach", "Quick profit-taking"],
+        "correct_option_id": 1,
+        "explanation": "The HODL movement encourages long-term investment and patience rather than reacting to short-term price movements."
+    },
+    {
+        "question": "Which platform specializes in decentralized options?",
+        "options": ["Uniswap", "Lydia Finance", "Hegic", "OpenSea"],
+        "correct_option_id": 2,
+        "explanation": "Hegic provides decentralized options trading where users can buy and sell options on-chain."
+    },
+    {
+        "question": "What is 'Wallet' in cryptocurrency terms?",
+        "options": ["A physical money holder", "Software or device storing private keys to access crypto", "An exchange account", "A smart contract"],
+        "correct_option_id": 1,
+        "explanation": "A crypto wallet stores private keys that control access to funds on the blockchain."
+    },
+    {
+        "question": "Which network rewards early adopters with governance tokens?",
+        "options": ["Uniswap", "SushiSwap", "Curve", "Balancer"],
+        "correct_option_id": 1,
+        "explanation": "SushiSwap rewarded early liquidity providers with SUSHI governance tokens as part of its incentive model."
+    },
+    {
+        "question": "What is 'Circulating Supply'?",
+        "options": ["Total possible supply", "Coins currently in circulation and available to trade", "Coins locked by developers", "Mining rewards"],
+        "correct_option_id": 1,
+        "explanation": "Circulating supply is the number of coins actively trading in the market, unlike maximum supply."
+    },
+    {
+        "question": "Which crypto project introduced the 'timed release' escrow?",
+        "options": ["Bitcoin", "Ethereum", "Ripple", "Stellar"],
+        "correct_option_id": 2,
+        "explanation": "Ripple's escrow releases XRP on a timed schedule to prevent large supply dumps."
+    },
+    {
+        "question": "What is 'Delegation' in Proof of Stake?",
+        "options": ["Transferring your coins", "Assigning your staking power to another validator", "Trading delegation", "Validator transfer"],
+        "correct_option_id": 1,
+        "explanation": "Delegation allows token holders to assign their staking power to validators without transferring their tokens."
+    },
+    {
+        "question": "Which DeFi platform specializes in perpetual futures?",
+        "options": ["Uniswap", "dYdX", "Curve", "Balancer"],
+        "correct_option_id": 1,
+        "explanation": "dYdX allows trading perpetual futures contracts with leverage directly on-chain."
+    },
+    {
+        "question": "What is 'Oracular Manipulation'?",
+        "options": ["Manipulating oracle data", "Attacking an oracle to feed false price data to smart contracts", "Oracle software bug", "Price manipulation"],
+        "correct_option_id": 1,
+        "explanation": "Oracle manipulation attacks involve feeding false price data to smart contracts to cause incorrect transactions."
+    },
+    {
+        "question": "Which network has the most developers building DApps?",
+        "options": ["Solana", "Ethereum", "Avalanche", "Polygon"],
+        "correct_option_id": 1,
+        "explanation": "Ethereum has the largest and most active developer community building decentralized applications."
+    },
+    {
+        "question": "What is 'Slashed' in Proof of Stake?",
+        "options": ["Cut in half", "Validator penalized for misbehavior by losing stake", "Price reduction", "Code optimization"],
+        "correct_option_id": 1,
+        "explanation": "Slashing penalizes validators in PoS systems who misbehave or go offline by destroying a portion of their stake."
+    },
+    {
+        "question": "Which cryptocurrency features 'Directed Acyclic Graphs' instead of blockchain?",
+        "options": ["Bitcoin", "IOTA", "Ethereum", "Ripple"],
+        "correct_option_id": 1,
+        "explanation": "IOTA uses a Tangle (DAG) structure instead of a linear blockchain, enabling feeless microtransactions."
+    },
+    {
+        "question": "What is 'Proof of Burn'?",
+        "options": ["Burning cryptocurrency", "Destroying coins to create new ones or gain stake", "Mining with CPU", "Staking reward system"],
+        "correct_option_id": 1,
+        "explanation": "Proof of Burn requires destroying coins to participate in mining, creating a cost-of-attack mechanism."
+    },
+    {
+        "question": "Which stablecoin uses MakerDAO's collateral system?",
+        "options": ["USDT", "DAI", "USDC", "TUSD"],
+        "correct_option_id": 1,
+        "explanation": "DAI is created by locking collateral (mainly ETH) in MakerDAO smart contracts, maintaining stability through over-collateralization."
+    },
+    {
+        "question": "What is 'Compound Interest' in DeFi?",
+        "options": ["Interest on interest", "Multiplying returns through compounding", "Both are correct", "Simple interest"],
+        "correct_option_id": 2,
+        "explanation": "Compound interest in DeFi means earning returns on your returns, multiplying gains over time."
+    },
+    {
+        "question": "What is 'Bitcoin Pizza Day'?",
+        "options": ["A pizza restaurant that accepts Bitcoin", "May 22, commemorating the first Bitcoin transaction for physical goods", "Bitcoin's birthday", "A Bitcoin trading pair"],
+        "correct_option_id": 1,
+        "explanation": "Bitcoin Pizza Day (May 22) celebrates when Laszlo Hanyecz paid 10,000 BTC for two pizzas in 2010."
+    },
+    {
+        "question": "Which blockchain technology does Ethereum plan to implement for scaling?",
+        "options": ["Sharding", "State channels", "Rollups", "All of the above"],
+        "correct_option_id": 3,
+        "explanation": "Ethereum is implementing multiple scaling solutions including sharding, state channels, and Layer 2 rollups."
+    },
+    {
+        "question": "What is 'Lido' in the DeFi space?",
+        "options": ["A staking platform", "A type of NFT", "A privacy coin", "A DEX"],
+        "correct_option_id": 0,
+        "explanation": "Lido is a liquid staking platform allowing users to stake ETH and receive stETH while maintaining liquidity."
+    },
+    {
+        "question": "Which token represents governance on MakerDAO?",
+        "options": ["MAKER", "MKR", "MAK", "MK"],
+        "correct_option_id": 1,
+        "explanation": "MKR is the governance token of MakerDAO, used by holders to vote on protocol changes and risk management."
+    },
+    {
+        "question": "What is 'Sandwich Slippage'?",
+        "options": ["Loss from reordering", "Price slippage from sandwich attacks", "Normal market slippage", "Trading delay"],
+        "correct_option_id": 1,
+        "explanation": "Sandwich slippage occurs when attackers exploit price slippage by inserting transactions around your trade."
+    },
+    {
+        "question": "Which exchange is known as 'DeFi's exchange'?",
+        "options": ["Coinbase", "Kraken", "dYdX", "Gemini"],
+        "correct_option_id": 2,
+        "explanation": "dYdX is known for pioneering decentralized derivatives and trading protocols."
+    },
+    {
+        "question": "What is a 'Governance Token'?",
+        "options": ["A token that pays dividends", "A token granting voting rights in a protocol", "A token backed by a government", "A staking token"],
+        "correct_option_id": 1,
+        "explanation": "Governance tokens allow holders to vote on protocol upgrades, fee structures, and other important decisions."
+    },
+    {
+        "question": "Which blockchain uses 'Proof of Elapsed Time'?",
+        "options": ["Bitcoin", "Hyperledger Sawtooth", "Ethereum", "Solana"],
+        "correct_option_id": 1,
+        "explanation": "Hyperledger Sawtooth uses Proof of Elapsed Time (PoET), where validators wait a random amount of time before creating blocks."
+    },
+    {
+        "question": "What is 'Leveraged Trading'?",
+        "options": ["Lending tokens", "Using borrowed capital to increase position size", "Trading with leverage stocks", "Margin accounts"],
+        "correct_option_id": 1,
+        "explanation": "Leveraged trading uses borrowed money to increase exposure, amplifying both potential profits and losses."
+    },
+    {
+        "question": "Which DeFi protocol allows collateral swapping?",
+        "options": ["Uniswap", "Aave", "Curve", "Balancer"],
+        "correct_option_id": 1,
+        "explanation": "Aave allows collateral swaps where users can exchange their collateral for different assets while maintaining their position."
+    },
+    {
+        "question": "What is 'Merkle Tree' in blockchain?",
+        "options": ["A type of tree", "A data structure for verifying transactions efficiently", "Mining algorithm", "Smart contract"],
+        "correct_option_id": 1,
+        "explanation": "Merkle trees efficiently verify large amounts of data by organizing transactions in a tree structure."
+    },
+    {
+        "question": "Which network is most energy-efficient?",
+        "options": ["Bitcoin", "Ethereum PoW", "Ethereum PoS", "Litecoin"],
+        "correct_option_id": 2,
+        "explanation": "Ethereum PoS is far more energy-efficient than proof-of-work systems, using 99.95% less energy."
+    },
+    {
+        "question": "What is 'Stake Pool'?",
+        "options": ["A swimming pool", "A collective pool where multiple users stake together for rewards", "A mining pool", "A trading pool"],
+        "correct_option_id": 1,
+        "explanation": "Stake pools allow multiple users to combine their tokens to meet staking requirements and share rewards."
+    },
+    {
+        "question": "Which blockchain is known for sidechains?",
+        "options": ["Bitcoin", "Ethereum", "Cosmos", "Polkadot"],
+        "correct_option_id": 2,
+        "explanation": "Cosmos enables multiple independent blockchains (sidechains) to operate interoperably."
+    },
+    {
+        "question": "What is a 'Cryptocurrency Mixer'?",
+        "options": ["A blender for crypto", "A service to obscure transaction origins", "A type of exchange", "A wallet"],
+        "correct_option_id": 1,
+        "explanation": "Crypto mixers combine multiple transactions to obscure the origin of funds, often used for privacy."
+    },
+    {
+        "question": "Which token is used in the Axie Infinity game?",
+        "options": ["AXIS", "AXS", "AXE", "AXIE"],
+        "correct_option_id": 1,
+        "explanation": "AXS (Axie Infinity Shard) is the governance token of the Axie Infinity game and ecosystem."
+    },
+    {
+        "question": "What is 'Risk Parameter' in DeFi?",
+        "options": ["Market risk", "Settings controlling how much collateral is needed", "Price volatility", "Trading risk"],
+        "correct_option_id": 1,
+        "explanation": "Risk parameters in DeFi protocols control liquidation thresholds, loan-to-value ratios, and reserve factors."
+    },
+    {
+        "question": "Which platform is known for 'Liquidity Mining'?",
+        "options": ["Uniswap", "Compound", "Balancer", "All of the above"],
+        "correct_option_id": 3,
+        "explanation": "Multiple platforms pioneer liquidity mining, rewarding users for providing liquidity with governance tokens."
+    },
+    {
+        "question": "What is 'Ethereum Improvement Proposal' (EIP)?",
+        "options": ["An improvement to mining", "A formal proposal for changes to Ethereum", "A bug fix", "A token upgrade"],
+        "correct_option_id": 1,
+        "explanation": "EIPs are formal proposals for changes and upgrades to the Ethereum protocol."
+    },
+    {
+        "question": "Which stablecoin is most decentralized?",
+        "options": ["USDT", "USDC", "DAI", "BUSD"],
+        "correct_option_id": 2,
+        "explanation": "DAI is the most decentralized stablecoin, created through MakerDAO's governance without central issuer control."
+    },
+    {
+        "question": "What is 'Value Lock'?",
+        "options": ["Locking value in a safe", "The dollar value of crypto locked in a DeFi protocol", "Holding coins long-term", "Smart contract lock"],
+        "correct_option_id": 1,
+        "explanation": "Value lock (or TVL) represents the total dollar value of cryptocurrency deposited in a DeFi protocol."
+    },
+    {
+        "question": "Which blockchain supports smart contracts in multiple languages?",
+        "options": ["Bitcoin", "Ethereum", "Cardano", "Polkadot"],
+        "correct_option_id": 2,
+        "explanation": "Cardano supports Plutus and Haskell for smart contract development, plus other languages through partnerships."
+    },
+    {
+        "question": "What is 'Derivative Trading'?",
+        "options": ["Trading derived coins", "Trading contracts based on underlying asset prices", "Secondary market trading", "Copying trading"],
+        "correct_option_id": 1,
+        "explanation": "Derivative trading involves contracts whose value is derived from underlying assets like Bitcoin or Ethereum."
+    },
+    {
+        "question": "Which DeFi protocol is known for 'Concentrated Liquidity'?",
+        "options": ["Uniswap V2", "Uniswap V3", "Curve", "Balancer"],
+        "correct_option_id": 1,
+        "explanation": "Uniswap V3 introduced concentrated liquidity, allowing providers to specify price ranges for their capital."
+    },
+    {
+        "question": "What is the 'Bear Market Definition' in crypto?",
+        "options": ["A 20% price drop", "A 50% price drop from recent highs", "Any price decrease", "Extended period of declining prices"],
+        "correct_option_id": 3,
+        "explanation": "A bear market is defined as an extended period of declining prices and negative market sentiment."
+    },
+    {
+        "question": "Which token powers the Avalanche ecosystem?",
+        "options": ["AVAX", "AVA", "LAUNCH", "SNOW"],
+        "correct_option_id": 0,
+        "explanation": "AVAX is the native token of the Avalanche blockchain used for gas fees and staking."
+    },
+    {
+        "question": "What is a 'Multi-Sig Wallet'?",
+        "options": ["Multiple signature types", "A wallet requiring multiple signatures to authorize transactions", "A wallet with multiple accounts", "A trading wallet"],
+        "correct_option_id": 1,
+        "explanation": "Multi-signature wallets require approval from multiple parties to execute transactions, enhancing security."
+    },
+    {
+        "question": "Which network is known for 'Subnets'?",
+        "options": ["Bitcoin", "Ethereum", "Avalanche", "Solana"],
+        "correct_option_id": 2,
+        "explanation": "Avalanche uses subnets, which are custom blockchains that can run independently within the network."
+    }
+]
